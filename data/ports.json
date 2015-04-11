@@ -1,0 +1,53 @@
+//[
+//  {
+//    "port": "Mission valley",
+//    "in-use": false
+//  },{
+//    "port": "Downtown SD",
+//    "in-use": true
+//  },{
+//    "port": "La Jolla",
+//    "in-use": true
+//  },{
+//    "port": "Santee",
+//    "in-use": false
+//  },{
+//    "port": "Oceanside",
+//    "in-use": true
+//  },{
+//    "port": "Chula Vista",
+//    "in-use": true
+//  }
+//]
+//
+
+[
+  {
+    "room": 101,
+    "available": false
+  },
+  {
+    "room": 102,
+    "available": true
+  },
+  {
+    "room": 103,
+    "available": false
+  },
+  {
+    "room": 104,
+    "available": false
+  },
+  {
+    "room": 105,
+    "available": true
+  },
+  {
+    "room": 106,
+    "available": true
+  }
+]
+
+
+// if actual words are to long and make the page look a bit messy,
+        // then i will zipcodes here in sandiego
