@@ -1,3 +1,5 @@
+## this project is built with Ajax and json for dynamic change.
+
 ## What we are doing is displaying the available autonomous cars 
 # and the available charging ports for these cars around the city of san diego.
 Still a work in progress, right now I'm trying to figure out how to make this run
