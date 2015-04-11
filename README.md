@@ -1,4 +1,4 @@
-## this project is built with Ajax and json for dynamic change.
+## built with Ajax and json.
 
 ## What we are doing is displaying the available autonomous cars 
 # and the available charging ports for these cars around the city of san diego.
