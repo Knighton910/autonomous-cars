@@ -1,5 +1,9 @@
-# So what i'm trying to do is a Corporation that dispatch driverless cars
-# and this place also have charging ports
+## What we are doing is displaying the available autonomous cars 
+# and the available charging ports for these cars around the city of san diego.
+Still a work in progress, right now I'm trying to figure out how to make this run
+with a ajax server, on team treehouse we run it in there build editor.
+
+
 
 so what i need to do is take what i learned from teamtreehouse working on 
  the corporation intranet an apply it for this driverless car company, i was thinking of 
